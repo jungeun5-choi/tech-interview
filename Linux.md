@@ -1,5 +1,5 @@
 <details>
-<summary> <b> Q. 리눅스 부트 프로세스 </b> </summary>
+<summary> <h3> Q. 리눅스 부트 프로세스 </h3> </summary>
 
 <br>
 
@@ -30,7 +30,7 @@
 <br>
 
 <details>
-<summary> <b>Q. 리눅스에서 가상화를 어떻게 구현할 수 있는지</b> </summary>
+<summary> <h3> Q. 리눅스에서 가상화를 어떻게 구현할 수 있는지 </h3> </summary>
 
 <br>
 
@@ -52,7 +52,7 @@ Type2 하이퍼바이저는 호스트 운영체제 위에서 실행됩니다.
 <br>
 
 <details>
-<summary> <b>Q. 리눅스를 가상화 서버에 올릴 때 어떤 점을 유의해야 할지?</b> </summary>
+<summary> <h3> Q. 리눅스를 가상화 서버에 올릴 때 어떤 점을 유의해야 할지? </h3> </summary>
 
 <br>
 
@@ -65,7 +65,7 @@ Type2 하이퍼바이저는 호스트 운영체제 위에서 실행됩니다.
 <br>
 
 <details>
-<summary> <b>Q. 가상화의 장단점</b> </summary>
+<summary> <h3> Q. 가상화의 장단점 </h3> </summary>
 
 <br>
 
@@ -88,7 +88,7 @@ Type2 하이퍼바이저는 호스트 운영체제 위에서 실행됩니다.
 <br>
 
 <details>
-<summary> <b>Q. 전가상화 vs 반가상화</b></summary>
+<summary> <h3> Q. 전가상화 vs 반가상화 </h3></summary>
 
 <br>
 
